@@ -1,0 +1,8 @@
+prefix=/home/leap/edukit_bot_ws/devel
+
+Name: edukit_bots
+Description: Description of edukit_bots
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/leap/edukit_bot_ws/devel/lib 
+Requires: 

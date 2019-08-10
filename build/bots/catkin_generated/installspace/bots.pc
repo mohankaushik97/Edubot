@@ -1,0 +1,8 @@
+prefix=/home/leap/edukit_bot_ws/install
+
+Name: bots
+Description: Description of bots
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/leap/edukit_bot_ws/install/lib 
+Requires: 
